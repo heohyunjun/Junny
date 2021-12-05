@@ -1,2 +1,1 @@
-# Infosec
-# programmers
+# SK 쉴더스 AI클라우드 융복합 과
